@@ -1,5 +1,6 @@
 # Enhancing-Image-Captioning
-Enhancing Image Captioning Accuracy Using Different Models
+**Enhancing Image Captioning Accuracy Using Different Models**
+
 In today's digital age, the fusion of computer vision and natural language processing has unlocked profound 
 possibilities, particularly in the realm of image understanding and interpretation. One of the most 
 fascinating applications to emerge from this intersection is image captioning – a process where machines 
