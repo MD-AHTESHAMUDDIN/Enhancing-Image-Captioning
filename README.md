@@ -11,7 +11,7 @@ recommendation systems, image search engines, and tools for assisting visually i
 However, while the potential of image captioning is immense, its practical deployment poses significant 
 challenges, especially when considering resource-constrained edge devices. These devices, ranging from 
 smartphones to IoT sensors, often lack the computational horsepower and memory capacity to 
-accommodate the resource-intensive deep neural networks typically employed for image captioning tasks. 
+accommodate the resource-intensive deep neural networks typically employed for image captioning tasks.
 
 As a result, there exists a pressing need to develop efficient and lightweight solutions that can deliver 
 accurate image descriptions while operating within the constraints of edge computing environments.
