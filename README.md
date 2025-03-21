@@ -14,7 +14,7 @@ smartphones to IoT sensors, often lack the computational horsepower and memory c
 accommodate the resource-intensive deep neural networks typically employed for image captioning tasks. 
 
 As a result, there exists a pressing need to develop efficient and lightweight solutions that can deliver 
-accurate image descriptions while operating within the constraints of edge computing environments. 
+accurate image descriptions while operating within the constraints of edge computing environments.
 
 To address this need, our project focuses on designing and implementing a novel image captioning system 
 optimized for deployment on resource-constrained edge devices. Our approach leverages state-of-the-art 
